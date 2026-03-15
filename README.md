@@ -34,3 +34,10 @@ The extracted skills can then be used for candidate evaluation and matching with
 - NLP techniques
 
 ---
+## How it Works
+
+1. The user uploads a resume in PDF format.
+2. The system extracts the text from the document.
+3. NLP models process the text.
+4. Skills are identified and extracted.
+5. A score is generated based on matching skills with job requirements.
