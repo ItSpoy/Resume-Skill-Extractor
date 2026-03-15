@@ -41,3 +41,20 @@ The extracted skills can then be used for candidate evaluation and matching with
 3. NLP models process the text.
 4. Skills are identified and extracted.
 5. A score is generated based on matching skills with job requirements.
+
+---
+
+## Future Improvements
+
+- Better skill classification
+- Multi-language resume support
+- Deep learning based entity extraction
+- Integration with job matching systems
+
+---
+
+## Author
+
+Boujebha Souhaiel
+
+Artificial Intelligence Master's Student 
